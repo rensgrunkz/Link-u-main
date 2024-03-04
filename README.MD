@@ -58,7 +58,7 @@ Sebelum memulai :checkered_flag:, pastikan kamu sudah menginstall [Git](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/suryamsj/Link-u
+$ git clone https://github.com/rensgrunkz/Link-u-main/
 
 # Access
 $ cd Link-u
@@ -70,17 +70,3 @@ $ composer install
 $ php artisan serve
 ```
 
-## :memo: Lisensi ##
-
-Project ini dibawah lisensi MIT. untuk lebih jelas, bisa lihat [LICENSE](LICENSE.md).
-
-
-Dibuat dengan :heart: oleh <a href="https://github.com/suryamsj" target="_blank">Muhammad Surya Jayadiprana</a>
-
-## :moneybag: Donasi ##
-
-<a href="https://trakteer.id/suryamsj/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-3.jpg" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
